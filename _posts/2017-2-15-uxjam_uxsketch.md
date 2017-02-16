@@ -54,6 +54,7 @@ title: UX JAM ＆ UX Sketch
 + 藤井：ユーザのことを忘れるとビジネスは破綻する。場当たり的に改修するとプロダクトがぐちゃぐちゃになる。ビジネスとユーザ、どちらも考えること。今から自分たちが社会にインパクトが与えてユーザを幸せにするものを作るのがUX
 
 ## 日常から学ぶデザイン - 道具と体験の関係性 -
+[発表スライド](https://speakerdeck.com/transit_kix/ri-chang-karaxue-budezain-dao-ju-toti-yan-falseguan-xi-xing){:target="_blank"}
 + スピーカー：倉光 美和氏（クックパッド株式会社）
 
 + UXMILK　クックパッド　で検索すると、今までUX MILKで発表した資料が閲覧できます
