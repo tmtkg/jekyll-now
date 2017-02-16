@@ -27,6 +27,21 @@ body {
   color: $darkGray;
 }
 
+hr {
+	border-top: 1px dashed #bbb;
+}
+hr:after {
+	content: '\002702';
+	display: inline-block;
+	position: relative;
+	top: -12px;
+	left: 40px;
+	padding: 0 3px;
+	background: #f0f0f0;
+	color: #bbb;
+	font-size: 18px;
+}
+
 .container {
   line-height: 2rem;
   margin: 0 auto;
