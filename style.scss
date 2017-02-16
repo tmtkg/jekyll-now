@@ -78,7 +78,7 @@ a {
   }
 }
 
-ul, ol {
+ol {
   margin: 15px 0;
   padding-left: 30px;
 }
@@ -91,7 +91,7 @@ ol ul, ul ol, ul ul, ol ol {
   margin: 0;
 }
 
-ul ul, ol ul {
+ol ul {
   list-style-type: circle;
 }
 
