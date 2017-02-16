@@ -13,7 +13,7 @@ title: UX JAM ＆ UX Sketch
 ## オープニング＆アイスブレイク
 + ITの人は呼ばないイベントも開催
  	- UXの本質がわかる
-+ 今までの資料などはLO'REMで検索
++ 今までの資料などは[L'OREM](http://l-orem.com/){:target="_blank"}で検索
 
 ## 2017年、気にしておかないと乗り遅れる17のUX
 [発表スライド](http://www.slideshare.net/yukio.andoh/ux-jam-x-ux-sketch-2017-hd){:target="_blank"}
