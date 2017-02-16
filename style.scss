@@ -34,19 +34,9 @@ hr {
     border-top:1px solid #cccccc;
     margin:1em 0;
     padding:0;
-}
-hr {
-	border-top: 1px dashed #bbb;
-}
-hr:after {
-	content: '\002702';
-	display: inline-block;
-	position: relative;
-	top: -12px;
-	left: 40px;
-	padding: 0 3px;
-	color: #bbb;
-	font-size: 18px;
+
+background-color: #fff;
+border-top: 2px dashed #8c8b8b;
 }
 
 .container {
