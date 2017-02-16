@@ -18,13 +18,13 @@ html {
 }
 
 body {
-  line-height: 1.5;
   background: $white;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
 
 .container {
+  line-height: 1.5;
   margin: 0 auto;
   max-width: 740px;
   padding: 0 10px;
