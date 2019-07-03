@@ -1,6 +1,6 @@
 ---
 layout: post
-title: INSIDE DIST #4：UI/UXデザイナーのお仕事を紹介します
+title: INSIDE DIST4 UI/UXデザイナーのお仕事を紹介します
 ---
 
 # 開催概要
