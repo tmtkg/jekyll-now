@@ -24,6 +24,8 @@ title: INSIDE DIST4 UI/UXデザイナーのお仕事を紹介します
 ### 最近のニュース
 - ハリーポッター魔法同盟
 - INDIEGOGOで見つけたLightPhone2。電子ペーパーを使った携帯電話。ミニマムな機能とPVに惹かれて購入
+- [生き物から見た世界](https://www.iwanami.co.jp/book/b247066.html)
+- [名建築は体験が9割](https://www.amazon.co.jp/%E5%90%8D%E5%BB%BA%E7%AF%89%E3%81%AF%E4%BD%93%E9%A8%93%E3%81%8C9%E5%89%B2-%E3%83%AD%E3%83%90%E3%83%BC%E3%83%88%E3%83%BB%E3%83%9E%E3%83%83%E3%82%AB%E3%83%BC%E3%82%BF%E3%83%BC/dp/4767824664)
 
 ## UI/UXデザイナーの定義
 - デザインと実装・顧客とデザインを取り持つ仕事
